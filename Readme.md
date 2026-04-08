@@ -1,7 +1,6 @@
 # Assignment 2 – Banking System
 
-Name: Darkhan Daurambekov  
-Group: [your group]
+Student: Darkhan Daurambekov | SE-2512
 
 ---
 
@@ -22,8 +21,6 @@ Program can:
 - display accounts  
 - search account  
 
-![Task1](screenshots/1.png)
-
 ---
 
 ## Task 2 – Deposit & Withdraw
@@ -34,8 +31,6 @@ I added:
 
 Balance updates directly in the list.
 
-![Task2](screenshots/2.png)
-
 ---
 
 ## Task 3 – Stack (History)
@@ -45,8 +40,6 @@ I used Stack to store transactions.
 - push → add  
 - pop → undo  
 - peek → last transaction  
-
-![Task3](screenshots/3.png)
 
 ---
 
@@ -60,8 +53,6 @@ Queue is used for bill payments.
 
 FIFO principle.
 
-![Task4](screenshots/4.png)
-
 ---
 
 ## Task 5 – Queue (Requests)
@@ -72,8 +63,6 @@ User sends request instead of creating account directly.
 - admin processes it  
 - account added to main list  
 
-![Task5](screenshots/5.png)
-
 ---
 
 ## Task 6 – Array
@@ -81,8 +70,6 @@ User sends request instead of creating account directly.
 Created array with 3 accounts.
 
 Fixed size, unlike LinkedList.
-
-![Task6](screenshots/6.png)
 
 ---
 
@@ -113,7 +100,21 @@ Admin:
 - how to build simple Java system  
 
 ---
+## Screenshots
+
+![4](https://github.com/user-attachments/assets/f135658d-02b7-4568-b2da-83abaec97b81)
+![3](https://github.com/user-attachments/assets/852f4dba-e223-418c-a715-8532a72efd89)
+![2](https://github.com/user-attachments/assets/93e1736a-f231-46b0-ad86-6a4c3221338c)
+![1](https://github.com/user-attachments/assets/8a66f101-7687-4dfe-8b4e-397b84879b06)
+![10](https://github.com/user-attachments/assets/260d39e9-aa44-4c98-b51d-a148cf397e1f)
+![9](https://github.com/user-attachments/assets/f5f3f0b5-9733-4da8-9daa-7b95101e256d)
+![8](https://github.com/user-attachments/assets/9fe1dae5-9906-40d9-a5b6-537634f17424)
+![7](https://github.com/user-attachments/assets/08762f46-daba-4387-9c3e-04ee11d17137)
+![6](https://github.com/user-attachments/assets/66a82c13-6a01-4be6-90f8-863c732b5ddb)
+![5](https://github.com/user-attachments/assets/c61b9fe6-7ddc-4023-9c0b-d1c3371bafbc)
+
+---
 
 ## GitHub
 
-(link here)
+https://github.com/darks1derr/asik2_ads/tree/main
